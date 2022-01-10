@@ -22,7 +22,7 @@ The source XML file that was used can be found as part of the [verinice](https:/
 
 ## Schema Visualization
 
-The complete database schema currently looks as follows (this includes nodes from [SCKG](https://gitlab.com/redteam-project/sckg), see above):
+The complete database schema currently looks as follows (this includes nodes from [SCKG](https://gitlab.com/redteam-project/sckg)):
 
 ![](doc/img/oscal-80053-fedramp-schema.png)
 ![](doc/img/itbaseline-schema.png)
