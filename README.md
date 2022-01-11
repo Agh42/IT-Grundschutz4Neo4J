@@ -9,7 +9,7 @@ You will need the APOC library to import the content into the database.
 These scripts import a JSON representation of the German [IT-Baseline catalog](https://www.bsi.bund.de/EN/Topics/ITGrundschutz/itgrundschutz_node.html) ("IT-Grundschutz-Kompendium") into Neo4J. A script is provided to
 convert an XML version of the catalog into a JSON format suitable for importing with APOC.
 
-The source XML file that was used can be found as part of the [verinice](https://github.com/SerNet/verinice) project
+The source XML file that was used can be found as part of the [verinice](https://github.com/SerNet/verinice) project. Simply download the latest version of the catalog from the [content repository](https://update.verinice.org/pub/verinice/content_for_verinice/compendium/) and extract the content XML from the archive. Then import them using the scripts provided here.
 
 ### *Connections from modules ("Bausteine") to Safeguards ("Umsetzungshinweise")':*
 
