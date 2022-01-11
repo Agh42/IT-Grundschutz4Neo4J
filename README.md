@@ -2,8 +2,7 @@
 
 This repository contains scripts to convert the German BSI IT-Grundschutz standard into a Neo4J database. Due to copyright reasons the repository does **not** contain any actual content published by the BSI. Please see the notes below on instructions where to retreive the required content.
 
-You will need the APOC library to scrape them directly from Github into the database. There
-is no need to download the files first.
+You will need the APOC library to import the content into the database.
 
 ## German BSI Grundschutz (IT-Baseline) Catalog
 
